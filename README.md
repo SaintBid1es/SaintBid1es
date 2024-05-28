@@ -50,13 +50,13 @@
 </div>
 
 
-
+### Contacts
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/wfxbarrett)
+</div>
+###
 
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
-### Contacts
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/wfxbarrett)
-</div>
-###
+
