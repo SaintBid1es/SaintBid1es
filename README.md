@@ -40,11 +40,8 @@
 ![](https://img.shields.io/badge/Intel-Core_i5_1235u-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![](https://img.shields.io/badge/RAM-8_GB-0071C5?style=for-the-badge&logo=&logoColor=white)
 ***
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThisJoraly&theme=dracula&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaintB1dies&theme=dracula&show_icons=true)
 ***
-### Contacts
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/wfxbarrett)
-</div>
 
 <br clear="both">
 
@@ -59,4 +56,7 @@
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
-
+### Contacts
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/wfxbarrett)
+</div>
+###
