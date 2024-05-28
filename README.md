@@ -40,7 +40,7 @@
 ![](https://img.shields.io/badge/Intel-Core_i5_1235u-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![](https://img.shields.io/badge/RAM-8_GB-0071C5?style=for-the-badge&logo=&logoColor=white)
 ***
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaintB1dies&theme=dracula&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaintBid1es&theme=dracula&show_icons=true)
 ***
 
 <br clear="both">
